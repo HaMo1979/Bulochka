@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>LightVel</title>
+	<title>LightVel.ua</title>
 	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 	<link href='https://fonts.googleapis.com/css?family=Comfortaa&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
@@ -89,7 +89,6 @@ table {
 	#window p span{
 		font-family: 'Comfortaa', cursive;
 		color: red;
-		//font-size: 50px;
 	}
 
 	#timeline{
@@ -146,12 +145,6 @@ table {
 	<p>Сайт розроблено студією Microsoft. Деталі за посиланням справа.  <a onclick="ups()">Microsoft</a></p>
 	
 </div>
-
- <SPAN id="button1"  onmouseOver="moveIt()" onfocus="moveIt();this.blur()"> 
- <button id="button" onclick="rez()" onmouseover="moveIt()" onfocus="moveIt();this.blur()">Посмотреть список</button> 
- </SPAN>
-
-
 
 
  <script> 
